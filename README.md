@@ -51,7 +51,7 @@ Provides an executive-level view of overall sales performance.
 
 ### 🖼️ Dashboard Preview
 
-![Retail Sales Overview](Screenshots/Overview.png)
+![Retail Sales Overview](Dashboards%20Screenshots/Overview.png)
 
 ---
 
@@ -69,7 +69,7 @@ Focuses on product-level, category-level, and sub-category sales performance.
 
 ### 🖼️ Dashboard Preview
 
-![Product Performance](Screenshots/Product_Performance.png)
+![Product Performance](Dashboards%20Screenshots/Product_Performance.png)
 
 ---
 
@@ -90,7 +90,7 @@ Analyzes returned orders and helps identify regional and operational return patt
 
 ### 🖼️ Dashboard Preview
 
-![Return Analysis](Screenshots/Return_Analysis.png)
+![Return Analysis](Dashboards%20Screenshots/Return_Analysis.png)
 
 ---
 
@@ -179,3 +179,39 @@ PowerBI-SalesPulse-Analysis-Dashboard/
 │
 └── Dataset/
     └── retail_sales_dataset.csv
+```
+
+## 🚀 Future Enhancements
+
+- 📈 **Sales Forecasting** – Predict future sales and revenue trends using historical data and predictive analytics.
+- 👥 **Customer Insights** – Analyze customer purchasing behavior, customer value, and repeat purchase patterns.
+- 📦 **Inventory Analysis** – Identify product demand, stock requirements, and potential restocking needs.
+- ⚠️ **Advanced Return Rate Analysis** – Compare return rates across products, categories, regions, and time periods to identify problem areas.
+- 🔄 **Real-Time Reporting** – Connect the dashboard with live or regularly updated data sources for continuous monitoring.
+
+---
+
+# 👩‍💻 Author
+
+### **Guttula Sri Lakshmi**
+
+**Aspiring Data Analyst | Power BI | SQL | Excel | Data Visualization**
+
+Passionate about transforming raw data into meaningful insights and building interactive dashboards that support better business decisions.
+
+### 🌐 Connect With Me
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/guttula-sri-lakshmi-aiml/
+
+🐙 **GitHub:**  
+https://github.com/srilakshmig2474
+
+📧 **Email:**  
+srilakshmi.g2474@gmail.com
+
+> *Turning data into insights, and insights into better decisions.* 📊✨
+
+---
+
+⭐ If you found this project helpful, don't forget to Star this repository!
