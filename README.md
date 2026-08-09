@@ -168,3 +168,26 @@ PowerBI-SalesPulse-Analysis-Dashboard/
 │
 └── Dataset/
     └── retail_sales_dataset.csv
+
+# 👩‍💻 Author
+
+**Guttula Sri Lakshmi**
+
+Aspiring Data Analyst | Power BI | SQL | Excel | Data Visualization### 🌐 Connect With Me
+
+💼 **LinkedIn:**  
+`https://www.linkedin.com/in/guttula-sri-lakshmi-aiml/`
+
+🐙 **GitHub:**  
+`https://github.com/srilakshmig2474`
+
+📧 **Email:**  
+`srilakshmi.g2474@gmail.com`
+
+---
+
+> *Turning data into insights, and insights into better decisions.* 📊✨
+
+
+
+⭐ If you found this project helpful, don't forget to Star this repository!
