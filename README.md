@@ -2,15 +2,17 @@
 
 An interactive Power BI dashboard designed to analyze retail sales performance, product performance, revenue trends, and return behavior.
 
+---
+
 ## 📌 Project Overview
 
 The **PowerBI SalesPulse Analysis Dashboard** transforms retail sales data into meaningful business insights using interactive Power BI visualizations.
 
 The project consists of three dashboards:
 
-1. Retail Sales Overview
-2. Product Performance
-3. Return Analysis
+1. **Retail Sales Overview**
+2. **Product Performance**
+3. **Return Analysis**
 
 The dashboard enables users to explore sales performance across regions, categories, products, time periods, and return reasons.
 
@@ -31,7 +33,7 @@ The dashboard enables users to explore sales performance across regions, categor
 
 # 📊 Dashboard 1 – Retail Sales Overview
 
-The Retail Sales Overview dashboard provides an executive-level summary of the business.
+Provides an executive-level view of overall sales performance.
 
 ### Key Performance Indicators
 
@@ -45,19 +47,17 @@ The Retail Sales Overview dashboard provides an executive-level summary of the b
 - Revenue by Region
 - Revenue by Category
 - Monthly Revenue Trend
-- Region slicer
-- Year slicer
-- Category slicer
+- Region, Year & Category slicers
 
-### Key Insight
+### 🖼️ Dashboard Preview
 
-The **West region** generates the highest revenue at approximately **43M**, followed by East, North, Central, and South.
+![Retail Sales Overview](Screenshots/Overview.png)
 
 ---
 
 # 📦 Dashboard 2 – Product Performance
 
-The Product Performance dashboard focuses on product-level and category-level sales analysis.
+Focuses on product-level, category-level, and sub-category sales performance.
 
 ### Visualizations
 
@@ -65,21 +65,17 @@ The Product Performance dashboard focuses on product-level and category-level sa
 - Top 10 Products by Revenue
 - Revenue by Sub-Category
 - Product-level Revenue Table
-- Region slicer
-- Year slicer
-- Category slicer
+- Region, Year & Category slicers
 
-### Key Insights
+### 🖼️ Dashboard Preview
 
-- **Ergonomic Chair** is the highest-revenue product at approximately **22M**.
-- Major revenue-generating sub-categories include **Display, Seating, Desks, and Storage**.
-- The dashboard allows users to analyze product performance interactively using filters.
+![Product Performance](Screenshots/Product_Performance.png)
 
 ---
 
 # ↩️ Dashboard 3 – Return Analysis
 
-The Return Analysis dashboard focuses on understanding returned orders and identifying return patterns.
+Analyzes returned orders and helps identify regional and operational return patterns.
 
 ### Key Performance Indicator
 
@@ -90,48 +86,51 @@ The Return Analysis dashboard focuses on understanding returned orders and ident
 - Returns by Region
 - Returns by Reason
 - Monthly Return Trend
-- Region slicer
-- Year slicer
-- Category slicer
+- Region, Year & Category slicers
 
-### Key Insights
+### 🖼️ Dashboard Preview
 
-- The **West region** records the highest number of returned orders with **182**.
-- The **East region** follows with **168** returned orders.
-- Major return reasons include:
-  - Defective item
-  - Damaged in transit
-  - Changed mind
-  - Wrong product delivered
-  - Product not as described
-
-- The monthly return trend helps identify changes in return activity over time.
+![Return Analysis](Screenshots/Return_Analysis.png)
 
 ---
 
-# 🛠️ Tools & Technologies
+# 💡 Top 10 Key Insights
 
-- **Power BI**
-- **Power Query**
-- **DAX**
-- **Data Cleaning**
-- **Data Transformation**
-- **Data Visualization**
-- **Interactive Dashboard Design**
+Based on the complete analysis across all three dashboards:
+
+1. **Total revenue reached approximately 192.11M** across the analyzed sales data.
+
+2. **West is the highest-revenue region**, generating approximately **43M**.
+
+3. **Electronics is the leading revenue category**, contributing approximately **102M**.
+
+4. **Ergonomic Chair is the highest-revenue individual product**, generating approximately **22M**.
+
+5. **Display is the strongest sub-category**, contributing approximately **76.43M** in revenue.
+
+6. **10K total orders** generated approximately **9.20K products sold**, providing an overview of overall sales activity.
+
+7. **West has the highest number of returned orders**, with **182 returns**.
+
+8. **Defective items are the most common return reason**, followed by damaged-in-transit and other product-related issues.
+
+9. **Revenue varies across months**, highlighting the importance of monitoring seasonal and time-based sales patterns.
+
+10. **Return activity varies across regions and months**, providing opportunities to investigate product quality, delivery, and order-fulfillment issues.
 
 ---
 
 # 📈 Business Questions Answered
 
-This project helps answer important business questions such as:
+The dashboard helps answer important questions such as:
 
 - Which region generates the highest revenue?
-- Which product contributes the most revenue?
-- Which category performs best?
-- Which sub-categories generate the most revenue?
+- Which category contributes the most revenue?
+- Which products are the top revenue generators?
+- Which sub-categories perform best?
 - How does revenue change over time?
-- Which region has the highest number of returned orders?
-- What are the most common return reasons?
+- Which region has the highest number of returns?
+- What are the major reasons for product returns?
 - How does return activity change over time?
 
 ---
@@ -148,6 +147,18 @@ This project helps answer important business questions such as:
 - Return reason analysis
 - Interactive filtering
 - Business-focused data visualization
+
+---
+
+# 🛠️ Tools & Technologies
+
+- **Power BI**
+- **Power Query**
+- **DAX**
+- **Data Cleaning**
+- **Data Transformation**
+- **Data Visualization**
+- **Interactive Dashboard Design**
 
 ---
 
@@ -168,26 +179,3 @@ PowerBI-SalesPulse-Analysis-Dashboard/
 │
 └── Dataset/
     └── retail_sales_dataset.csv
-
-# 👩‍💻 Author
-
-**Guttula Sri Lakshmi**
-
-Aspiring Data Analyst | Power BI | SQL | Excel | Data Visualization### 🌐 Connect With Me
-
-💼 **LinkedIn:**  
-`https://www.linkedin.com/in/guttula-sri-lakshmi-aiml/`
-
-🐙 **GitHub:**  
-`https://github.com/srilakshmig2474`
-
-📧 **Email:**  
-`srilakshmi.g2474@gmail.com`
-
----
-
-> *Turning data into insights, and insights into better decisions.* 📊✨
-
-
-
-⭐ If you found this project helpful, don't forget to Star this repository!
